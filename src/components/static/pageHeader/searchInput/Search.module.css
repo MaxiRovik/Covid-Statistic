@@ -1,0 +1,32 @@
+.searchBlock {
+    display:flex;
+    align-items: center;
+    justify-content: flex-start;
+    flex-direction: row;
+    width: 600px;
+    height: 80px;
+    background: #FFFFFF;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+
+.searchBlock input{
+    color: black;
+    width: 480px;
+    margin:20px;
+    outline: 0;
+    outline-offset: 0;
+    border: none;
+}
+
+.searchBlock input[type = 'text'] {
+    color: rgba(178, 178, 178,1);
+}
+.searchBlock input[placeholder] {
+    font-size: 48px;
+    color:black;
+}
+
+.searchBlock >img {
+    padding: 0 22px;
+}

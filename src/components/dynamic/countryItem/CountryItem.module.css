@@ -1,0 +1,24 @@
+.countryItemBlock {
+    display:flex;
+    width:100%;
+    height: content-box;
+    margin-bottom: 20px;
+    background: #FFFFFF;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+
+}
+.numberBlock {
+    padding: 26px 34px 26px 30px;
+}
+.nameBlock{
+    width: 1356px;
+    height:100%;
+    border-left: 1px solid rgba(178, 178, 178, 1);
+    border-right: 1px solid rgba(178, 178, 178, 1);
+    padding: 26px 0 26px 23px;
+}
+.totalConfirmBlock {
+    width:534px;
+    padding: 26px 0 0 23px
+}

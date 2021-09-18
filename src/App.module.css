@@ -1,0 +1,9 @@
+.AppWrapper {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 28px;
+
+    margin: 0 60px 0 60px;
+}
